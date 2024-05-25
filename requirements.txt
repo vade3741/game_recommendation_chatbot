@@ -1,0 +1,14 @@
+fastapi
+pydantic
+langchain.chains
+langchain.embeddings
+langchain.vectorstores
+langchain.document_loaders
+langchain.text_splitter
+transformers 
+langchain.llms
+langchain.prompts 
+langchain.chains 
+langchain.memory 
+google_play_scraper
+pandas
